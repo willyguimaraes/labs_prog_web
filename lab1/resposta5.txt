@@ -1,1 +1,4 @@
-Teste
+Primeiramente definiria as tecnologias a serem utilizadas, baseando-se nas tecnologias mais usadas/confiavéis 
+disponiveis hoje.
+Depois separaria o projeto em partes e distribuiria as partes para cada um, deixando os dois com tarefas claras.
+Para controle de versão, usaria o github, por ser de facil utilização, ser confiável e amplamente utilizado pela comunidade.   

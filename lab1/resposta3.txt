@@ -1,1 +1,3 @@
-Teste
+O versionamento de código é o gerenciamento de mudanças em arquivos de um projeto, permitindo rastrear modificações, reverter versões anteriores 
+e colaborar de forma organizada. É essencial no desenvolvimento colaborativo porque facilita o trabalho em equipe, resolve conflitos de alterações 
+simultâneas e mantém o histórico de mudanças, garantindo controle e qualidade no desenvolvimento. Ferramentas como Git são amplamente usadas para esse propósito.

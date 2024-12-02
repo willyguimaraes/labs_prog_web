@@ -1,1 +1,7 @@
-Teste
+O HTML, criado por Tim Berners-Lee em 1989, e a World Wide Web revolucionaram a internet,
+permitindo a formatação de documentos, a inclusão de hiperlinks e a criação de uma rede
+global acessível. Essa inovação democratizou a informação, possibilitou experiências
+interativas e impulsionou o surgimento de blogs, redes sociais e plataformas de
+compartilhamento. A combinação do HTML e da WWW tornou a internet uma plataforma
+acessível, interativa e colaborativa, transformando a comunicação e o consumo de
+conhecimento no mundo.

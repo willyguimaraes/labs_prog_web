@@ -1,1 +1,13 @@
-Teste
+1 - HTML (HyperText Markup Language)
+Estrutura o conteúdo de páginas web, organizando elementos como textos, imagens e links.
+É a base essencial para exibir conteúdo na internet.
+
+2 - Git
+Ferramenta de controle de versão que ajuda os desenvolvedores a rastrear mudanças
+no código, colaborar em equipe e gerenciar diferentes versões de um projeto de forma 
+eficiente. Com ele, é possível reverter alterações e manter o histórico do desenvolvimento.
+
+3 - JavaScript
+Adiciona interatividade e funcionalidades dinâmicas às aplicações web, como validação de 
+formulários e atualizações em tempo real. Frameworks como React e Angular ampliam suas 
+capacidades para construir interfaces modernas e eficientes.
